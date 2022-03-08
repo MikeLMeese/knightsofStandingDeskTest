@@ -10,3 +10,4 @@ Shane wuz here
 * Never ^
 
 _This is Colin Reale in italics_
+**Hi, Colin Reale.**
