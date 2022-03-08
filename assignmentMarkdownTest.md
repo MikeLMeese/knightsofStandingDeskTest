@@ -8,3 +8,5 @@ Shane wuz here
 
 > #### Never trust a **_skinny chef_** to cook your food
 * Never ^
+
+_This is Colin Reale in italics_
