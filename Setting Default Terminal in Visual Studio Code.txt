@@ -1,0 +1,9 @@
+1. Open Visual Studio Code
+
+2. Press Ctrl + Shift + P to open the Command Palette
+
+3. Type in Terminal: Select Default Profile
+
+4. Click Bash
+
+5. Enjoy the peace of not having to change your terminal every time you start a new one
